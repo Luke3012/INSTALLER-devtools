@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{905EA169-C18A-4C1C-865D-E3C1B709CBCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>INSTALLER_devtools.My.MyApplication</StartupObject>
+    <RootNamespace>INSTALLER_devtools</RootNamespace>
+    <AssemblyName>INSTALLER-devtools</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\..\..\..\..\..\..\INSTALLER\INSTALLER - devtools\</OutputPath>
+    <DocumentationFile>INSTALLER-devtools.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>INSTALLER-devtools.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Mcdo-Design-Smooth-Leopard-Applications-Folder-Blue.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="changelogmerge.Designer.vb">
+      <DependentUpon>changelogmerge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changelogmerge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changelogset.Designer.vb">
+      <DependentUpon>changelogset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changelogset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose.Designer.vb">
+      <DependentUpon>choose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="choose.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cloneota.Designer.vb">
+      <DependentUpon>cloneota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cloneota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editortext.Designer.vb">
+      <DependentUpon>editortext.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editortext.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="explorer.Designer.vb">
+      <DependentUpon>explorer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="explorer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informazioni.Designer.vb">
+      <DependentUpon>informazioni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="informazioni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="installer.Designer.vb">
+      <DependentUpon>installer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="installer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="installermake.Designer.vb">
+      <DependentUpon>installermake.vb</DependentUpon>
+    </Compile>
+    <Compile Include="installermake.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="installerpubblica.Designer.vb">
+      <DependentUpon>installerpubblica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="installerpubblica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loading.Designer.vb">
+      <DependentUpon>loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.vb">
+      <DependentUpon>main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="newapp.Designer.vb">
+      <DependentUpon>newapp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newapp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newappdscr.Designer.vb">
+      <DependentUpon>newappdscr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newappdscr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newappimg.Designer.vb">
+      <DependentUpon>newappimg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newappimg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newfile.Designer.vb">
+      <DependentUpon>newfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newfolder.Designer.vb">
+      <DependentUpon>newfolder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newfolder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="onedrive.Designer.vb">
+      <DependentUpon>onedrive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="onedrive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updater.Designer.vb">
+      <DependentUpon>updater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="updater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updaterversion.Designer.vb">
+      <DependentUpon>updaterversion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="updaterversion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="versionedit.Designer.vb">
+      <DependentUpon>versionedit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="versionedit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="whatfolder.Designer.vb">
+      <DependentUpon>whatfolder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="whatfolder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="changelogmerge.resx">
+      <DependentUpon>changelogmerge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changelogset.resx">
+      <DependentUpon>changelogset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="choose.resx">
+      <DependentUpon>choose.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cloneota.resx">
+      <DependentUpon>cloneota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editortext.resx">
+      <DependentUpon>editortext.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="explorer.resx">
+      <DependentUpon>explorer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informazioni.resx">
+      <DependentUpon>informazioni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="installer.resx">
+      <DependentUpon>installer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="installermake.resx">
+      <DependentUpon>installermake.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="installerpubblica.resx">
+      <DependentUpon>installerpubblica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loading.resx">
+      <DependentUpon>loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newapp.resx">
+      <DependentUpon>newapp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newappdscr.resx">
+      <DependentUpon>newappdscr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newappimg.resx">
+      <DependentUpon>newappimg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newfile.resx">
+      <DependentUpon>newfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newfolder.resx">
+      <DependentUpon>newfolder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="onedrive.resx">
+      <DependentUpon>onedrive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updater.resx">
+      <DependentUpon>updater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updaterversion.resx">
+      <DependentUpon>updaterversion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="versionedit.resx">
+      <DependentUpon>versionedit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="whatfolder.resx">
+      <DependentUpon>whatfolder.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Mcdo-Design-Smooth-Leopard-Applications-Folder-Blue.ico" />
+    <None Include="packages.config" />
+    <None Include="Resources\INSTALLER- paint.png" />
+    <None Include="Resources\info-2150941_960_720.png" />
+    <None Include="Resources\Toolset-Embedded-updates-icon.png" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\unnamed %282%29.png" />
+    <None Include="Resources\unnamed %281%29.png" />
+    <None Include="Resources\Changelog.png" />
+    <None Include="Resources\Igh0zt-Ios7-Style-Metro-Ui-MetroUI-Apps-Mac-App-Store.jpg" />
+    <None Include="Resources\unnamed.png" />
+    <None Include="Resources\WikiFont_uniE018_-_cog_-_blue.svg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

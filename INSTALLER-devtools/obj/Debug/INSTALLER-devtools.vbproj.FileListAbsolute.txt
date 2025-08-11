@@ -1,0 +1,87 @@
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbprojResolveAssemblyReference.cache
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.changelogset.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installer.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installermake.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installerpubblica.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.loading.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.main.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.Resources.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updater.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updaterversion.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.versionedit.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.GenerateResource.Cache
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.exe
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.xml
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.pdb
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.explorer.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.informazioni.resources
+C:\Users\lucat\source\repos\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.editortext.resources
+C:\Users\lucat\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.exe.config
+C:\Users\lucat\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.exe
+C:\Users\lucat\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.pdb
+C:\Users\lucat\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.xml
+C:\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.exe.config
+C:\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.exe
+C:\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.pdb
+C:\INSTALLER\INSTALLER - devtools\INSTALLER-devtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.changelogmerge.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.changelogset.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.choose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.cloneota.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.editortext.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.explorer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.informazioni.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installermake.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installerpubblica.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.main.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newfile.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newfolder.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.onedrive.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updater.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updaterversion.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.versionedit.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.whatfolder.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.CopyComplete
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newappimg.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newappdscr.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbprojAssemblyReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.changelogmerge.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.changelogset.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.choose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.cloneota.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.editortext.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.explorer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.informazioni.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installer.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installermake.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.installerpubblica.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.main.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newappdscr.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newappimg.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newfile.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.newfolder.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.onedrive.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updater.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.updaterversion.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.versionedit.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER_devtools.whatfolder.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbproj.CopyComplete
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER-devtools\INSTALLER-devtools\obj\Debug\INSTALLER-devtools.vbprojAssemblyReference.cache
